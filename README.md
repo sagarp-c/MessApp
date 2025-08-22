@@ -1,4 +1,4 @@
-Mess App – Monthly Mess Bill Calculator
+Mess Bill – Monthly Mess Bill Calculator
 
 This is a Streamlit-based web application that allows hostel or PG residents to calculate their monthly mess and room fees based on the days they opt out of mess services (Mess Cuts). It features an interactive UI for selecting "Mess Cut" dates, performs fee calculations, and provides CSV/TXT exports and a visual bar chart to represent usage.
 
